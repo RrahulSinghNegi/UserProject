@@ -1,0 +1,10 @@
+com\user\service\repository\UserRepository.class
+com\user\service\dao\UserDao.class
+com\user\service\bean\Address.class
+com\user\service\service\UserServiceImpl.class
+com\user\service\MainApplication.class
+com\user\service\bean\User.class
+com\user\service\controller\UserController.class
+com\user\service\dao\UserDaoImpl.class
+com\user\service\entity\UserEntity.class
+com\user\service\service\UserService.class
